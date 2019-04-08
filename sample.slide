@@ -1,0 +1,28 @@
+﻿輕鬆學golang
+Subtitle of document
+15:04 8 Apr 2019
+Tags: foo, bar, baz
+
+Author Name
+梁世煌, 臺灣土地銀行資訊處
+082911@landbank.com.tw
+http://url/
+LineID:shliang1974
+cellphone:0928-532-240
+
+* Title1 of slide or section (must have asterisk)
+.background 1.jpg
+.link https://tw.yahoo.com YAHOO
+- bullets
+- more bullets
+- a bullet with
+.caption _Gopher_ by [[https://www.instagram.com/reneefrench/][Renée French]]
+: Presenter notesasdfdsfsfs (first paragraph)
+
+* Title2 of slide or section (must have asterisk)
+
+Some Text
+
+* Title3 of slide or section (must have asterisk)
+
+Some Text
