@@ -1,17 +1,17 @@
 ﻿輕鬆學golang
-Subtitle of document
-15:04 8 Apr 2019
-Tags: foo, bar, baz
+
+15:04 2 May 2020
+
 
 Author Name
 梁世煌, 臺灣土地銀行資訊處
-082911@landbank.com.tw
-http://url/
+kindmyvnc@gmail.com
+https://go-talks.appspot.com/github.com/bryancelina/talks/
 LineID:shliang1974
 cellphone:0928-532-240
 
 * Title1 of slide or section (must have asterisk)
-.background 1.jpg
+.background https://mk0mitraissited2cion.kinstacdn.com/wp-content/uploads/2018/07/golang-lets-go-1.png
 .link https://tw.yahoo.com YAHOO
 - bullets
 - more bullets
